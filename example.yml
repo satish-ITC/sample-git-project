@@ -1,0 +1,15 @@
+class exaple(){
+
+
+  int x=20;
+}
+
+public static void main(string[] args){
+
+example e1 = new example();
+
+system.out.println("x:" + e1.x)
+
+
+}
+
